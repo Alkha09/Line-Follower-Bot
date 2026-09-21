@@ -94,13 +94,8 @@ Repeat
 
 ## Demo Video
 
-<video
-  src="https://raw.githubusercontent.com/Alkha09/Line-Follower-Bot/main/videolf.mp4"
-  controls
-  width="700">
-</video>
+https://github.com/user-attachments/assets/34c12653-e1ed-4fb4-b549-167254461754
 
-[▶️ Open Demo Video](https://github.com/Alkha09/Line-Follower-Bot/raw/refs/heads/main/videolf.mp4)
 
 ## Learning Outcomes
 
@@ -113,4 +108,5 @@ Repeat
 
 ## Author
 
-**Alkha **
+Alkha 
+Ayurmithra
