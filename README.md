@@ -94,9 +94,13 @@ Repeat
 
 ## Demo Video
 
-<video src="./videolf.mp4" controls width="700"></video>
+<video
+  src="https://raw.githubusercontent.com/Alkha09/Line-Follower-Bot/main/videolf.mp4"
+  controls
+  width="700">
+</video>
 
-[▶️ Open Demo Video](./videolf.mp4)
+[▶️ Open Demo Video](https://github.com/Alkha09/Line-Follower-Bot/raw/refs/heads/main/videolf.mp4)
 
 ## Learning Outcomes
 
